@@ -1,2 +1,2 @@
-# quiz-app
- Quiz app built with Appwrite and Remix
+# Remix-JS
+ This is a Remix JavaScript template
